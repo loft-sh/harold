@@ -77,7 +77,7 @@ jobs:
     permissions:
       contents: read
       pull-requests: write # post inline actionlint review findings
-    uses: loft-sh/github-actions/.github/workflows/actionlint.yaml@main # zizmor: ignore[unpinned-uses]
+    uses: loft-sh/github-actions/.github/workflows/actionlint.yaml@actionlint/v1 # zizmor: ignore[unpinned-uses]
 
   zizmor:
     name: zizmor

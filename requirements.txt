@@ -7,5 +7,5 @@ pynetbox==7.7.0
 requests==2.32.3
 PyYAML==6.0.2
 jinja2==3.1.4
-python-multipart==0.0.20
+python-multipart==0.0.31
 cryptography==50.0.0
